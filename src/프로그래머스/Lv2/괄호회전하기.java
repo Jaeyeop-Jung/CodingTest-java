@@ -1,9 +1,8 @@
-package Lv2;
+package 프로그래머스.Lv2;
 
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
-import java.util.Queue;
 import java.util.Stack;
 import java.util.stream.Collectors;
 

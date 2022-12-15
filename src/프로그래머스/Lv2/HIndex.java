@@ -1,8 +1,6 @@
-package Lv2;
+package 프로그래머스.Lv2;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collections;
 
 public class HIndex {
 	public static void main(String[] args) {
