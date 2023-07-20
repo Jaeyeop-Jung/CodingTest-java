@@ -28,6 +28,9 @@ public class No2785 {
 				.boxed()
 				.collect(Collectors.toList());
 
+
+
+
 		int res = 0;
 		ArrayDeque<Integer> q = new ArrayDeque<>(list);
 		while (2 < q.size()) {

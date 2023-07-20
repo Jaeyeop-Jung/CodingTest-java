@@ -4,6 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
+import java.util.Queue;
 
 public class No2477 {
 
@@ -24,6 +25,8 @@ public class No2477 {
 				maxLength = t2;
 			}
 		}
+
+		Queue<Object> objects = new Queue<>();
 
 		int maxGaro = maxLength;
 		int maxSeroIdx = 0;
