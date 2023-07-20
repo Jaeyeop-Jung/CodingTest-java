@@ -26,8 +26,6 @@ public class No2477 {
 			}
 		}
 
-		Queue<Object> objects = new Queue<>();
-
 		int maxGaro = maxLength;
 		int maxSeroIdx = 0;
 		if (maxIdx - 1 < 0) {
